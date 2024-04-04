@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1710535431 source:/home/sxcord/TP1/tp1/main.c
+	<stdio.h>
+	<stdlib.h>
+	"list.h"
+
+1710535638 source:/home/sxcord/TP1/tp1/list.c
+	<stdio.h>
+	<stdlib.h>
+
+1710535421 /home/sxcord/TP1/tp1/list.c
+	<stdio.h>
+	<stdlib.h>
+
+1710536078 /home/sxcord/TP1/tp1/list.h
+
